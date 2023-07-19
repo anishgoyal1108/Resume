@@ -1,10 +1,10 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.5) (preloaded format=xelatex 2023.6.3)  19 JUL 2023 16:19
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.5) (preloaded format=xelatex 2023.6.3)  19 JUL 2023 16:50
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**c:/Users/Anish/Downloads/clean_resume/main.tex
-(c:/Users/Anish/Downloads/clean_resume/main.tex
+**c:/Users/Anish/Downloads/Resume/main.tex
+(c:/Users/Anish/Downloads/Resume/main.tex
 LaTeX2e <2022-11-01> patch level 1
 L3 programming layer <2023-05-15> (clean-resume.cls
 Document Class: clean-resume 2023/05/07 Clean Resume
@@ -602,7 +602,7 @@ Package fontspec Info: Font family 'Inter(1)' created for font 'Inter' with
 \l_cr_avatar_yshift_dim=\dimen290
 \l_cr_avatar_xshift_dim=\dimen291
 \l_cr_avatar_size_dim=\dimen292
-) (c:\Users\Anish\Downloads\clean_resume\build\main.aux)
+) (c:\Users\Anish\Downloads\Resume\build\main.aux)
 \openout1 = `main.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 4.
@@ -869,33 +869,33 @@ Underfull \hbox (badness 10000) in paragraph at lines 151--152
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 162--163
+Underfull \hbox (badness 10000) in paragraph at lines 161--162
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 175--176
+Underfull \hbox (badness 10000) in paragraph at lines 174--175
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 185--186
+Underfull \hbox (badness 10000) in paragraph at lines 184--185
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 195--196
+Underfull \hbox (badness 10000) in paragraph at lines 194--195
 
  []
 
-[2] (c:\Users\Anish\Downloads\clean_resume\build\main.aux) ) 
+[2] (c:\Users\Anish\Downloads\Resume\build\main.aux) ) 
 Here is how much of TeX's memory you used:
  35153 strings out of 411548
- 775767 string characters out of 5819473
+ 775719 string characters out of 5819473
  1880476 words of memory out of 5000000
  54910 multiletter control sequences out of 15000+600000
  514718 words of font info for 70 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
- 115i,9n,118p,1039b,1173s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 115i,9n,118p,1033b,1173s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on c:\Users\Anish\Downloads\clean_resume\build\main.xdv (2 pages, 77732 bytes).
+Output written on c:\Users\Anish\Downloads\Resume\build\main.xdv (2 pages, 78528 bytes).

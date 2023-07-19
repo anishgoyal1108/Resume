@@ -1,7 +1,7 @@
-PWD c:\Users\Anish\Downloads\clean_resume
+PWD c:\Users\Anish\Downloads\Resume
 INPUT C:\Users\Anish\AppData\Local\MiKTeX\miktex\data\le\xetex\xelatex.fmt
-INPUT c:\Users\Anish\Downloads\clean_resume\main.tex
-OUTPUT c:\Users\Anish\Downloads\clean_resume\build\main.log
+INPUT c:\Users\Anish\Downloads\Resume\main.tex
+OUTPUT c:\Users\Anish\Downloads\Resume\build\main.log
 INPUT .\clean-resume.cls
 INPUT clean-resume.cls
 INPUT clean-resume.cls
@@ -415,10 +415,10 @@ INPUT C:\Users\Anish\AppData\Local\Programs\MiKTeX\tex\latex\fontspec\fontspec.c
 INPUT C:\Users\Anish\AppData\Local\Programs\MiKTeX\tex\latex\fontspec\fontspec.cfg
 INPUT C:\Users\Anish\AppData\Local\Programs\MiKTeX\tex\latex\fontspec\fontspec.cfg
 INPUT C:\Users\Anish\AppData\Local\Programs\MiKTeX\tex\latex\fontspec\fontspec.cfg
-INPUT c:\Users\Anish\Downloads\clean_resume\build\main.aux
-INPUT c:\Users\Anish\Downloads\clean_resume\build\main.aux
-INPUT c:\Users\Anish\Downloads\clean_resume\build\main.aux
-OUTPUT c:\Users\Anish\Downloads\clean_resume\build\main.aux
+INPUT c:\Users\Anish\Downloads\Resume\build\main.aux
+INPUT c:\Users\Anish\Downloads\Resume\build\main.aux
+INPUT c:\Users\Anish\Downloads\Resume\build\main.aux
+OUTPUT c:\Users\Anish\Downloads\Resume\build\main.aux
 INPUT C:\Users\Anish\AppData\Local\Programs\MiKTeX\tex\latex\base\ts1cmr.fd
 INPUT C:\Users\Anish\AppData\Local\Programs\MiKTeX\tex\latex\base\ts1cmr.fd
 INPUT C:\Users\Anish\AppData\Local\Programs\MiKTeX\tex\latex\base\ts1cmr.fd
@@ -440,5 +440,5 @@ INPUT C:\Users\Anish\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-cmr.cf
 INPUT C:\Users\Anish\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-cmr.cfg
 INPUT C:\Users\Anish\AppData\Local\Programs\MiKTeX\tex\latex\microtype\mt-cmr.cfg
 INPUT C:\Users\Anish\AppData\Local\Programs\MiKTeX\fonts\tfm\public\cm\cmr6.tfm
-OUTPUT c:\Users\Anish\Downloads\clean_resume\build\main.xdv
-INPUT c:\Users\Anish\Downloads\clean_resume\build\main.aux
+OUTPUT c:\Users\Anish\Downloads\Resume\build\main.xdv
+INPUT c:\Users\Anish\Downloads\Resume\build\main.aux
