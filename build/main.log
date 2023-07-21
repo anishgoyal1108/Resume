@@ -1,4 +1,4 @@
-This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.5) (preloaded format=xelatex 2023.6.3)  19 JUL 2023 16:50
+This is XeTeX, Version 3.141592653-2.6-0.999995 (MiKTeX 23.5) (preloaded format=xelatex 2023.6.3)  20 JUL 2023 21:37
 entering extended mode
  \write18 enabled.
  file:line:error style messages enabled.
@@ -29,7 +29,14 @@ File: size10.clo 2022/07/02 v1.4n Standard LaTeX file (size option)
 \l_cr_column_gap_dim=\dimen142
 \l_cr_margin_dim=\dimen143
 \l_cr_element_gap_dim=\dimen144
- (C:\Users\Anish\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
+
+
+Package CR Warning: Columngapissmallerthan3em.
+
+
+Package CR Warning: Columngapissmallerthan3em.
+
+(C:\Users\Anish\AppData\Local\Programs\MiKTeX\tex/latex/tools\calc.sty
 Package: calc 2017/05/25 v4.3 Infix arithmetic (KKT,FJ)
 \calc@Acount=\count189
 \calc@Bcount=\count190
@@ -874,17 +881,17 @@ Underfull \hbox (badness 10000) in paragraph at lines 161--162
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 174--175
+Underfull \hbox (badness 10000) in paragraph at lines 173--174
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 184--185
+Underfull \hbox (badness 10000) in paragraph at lines 183--184
 
  []
 
 
-Underfull \hbox (badness 10000) in paragraph at lines 194--195
+Underfull \hbox (badness 10000) in paragraph at lines 193--194
 
  []
 
@@ -892,10 +899,10 @@ Underfull \hbox (badness 10000) in paragraph at lines 194--195
 Here is how much of TeX's memory you used:
  35153 strings out of 411548
  775719 string characters out of 5819473
- 1880476 words of memory out of 5000000
+ 1881476 words of memory out of 5000000
  54910 multiletter control sequences out of 15000+600000
  514718 words of font info for 70 fonts, out of 8000000 for 9000
  1348 hyphenation exceptions out of 8191
  115i,9n,118p,1033b,1173s stack positions out of 10000i,1000n,20000p,200000b,200000s
 
-Output written on c:\Users\Anish\Downloads\Resume\build\main.xdv (2 pages, 78528 bytes).
+Output written on c:\Users\Anish\Downloads\Resume\build\main.xdv (2 pages, 79428 bytes).

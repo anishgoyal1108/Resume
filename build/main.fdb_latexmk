@@ -1,10 +1,10 @@
 # Fdb version 4
-["xdvipdfmx"] 1689799860 "build/main.xdv" "build/main.pdf" "build/main" 1689799862 0
-  "build/main.xdv" 1689799860 78528 b43cde8d37a2909d1c0876d6f86c123e "xelatex"
+["xdvipdfmx"] 1689903440 "build/main.xdv" "build/main.pdf" "build/main" 1689903441 0
+  "build/main.xdv" 1689903439 79428 700da1bae0e9bb99818ba8d4c02c7a3b "xelatex"
   (generated)
   "build/main.pdf"
   (rewritten before read)
-["xelatex"] 1689799858 "c:/Users/Anish/Downloads/Resume/main.tex" "build/main.xdv" "main" 1689799862 0
+["xelatex"] 1689903438 "c:/Users/Anish/Downloads/Resume/main.tex" "build/main.xdv" "main" 1689903441 0
   "C:/Users/Anish/AppData/Local/MiKTeX/miktex/data/le/xetex/xelatex.fmt" 1685832047 36450532 52e89d33b2ca47d1ba5c83aae598b862 ""
   "C:/Users/Anish/AppData/Local/Programs/MiKTeX/fonts/tfm/adobe/zapfding/pzdr.tfm" 1136793854 1528 7e12f4c0fcf5a072cebdcfbfc610f54c ""
   "C:/Users/Anish/AppData/Local/Programs/MiKTeX/fonts/tfm/public/cm/cmmi6.tfm" 1136768653 1512 f21f83efb36853c0b70002322c1ab3ad ""
@@ -154,11 +154,11 @@
   "C:/Users/Anish/AppData/Local/Programs/MiKTeX/tex/latex/tools/xspace.sty" 1667242266 4545 4c279ac9292a1be8afa9ab2f1d3299c2 ""
   "C:/Users/Anish/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388494052 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/Anish/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1656236890 56148 51a9a8571c07b9921892ae11063ae853 ""
-  "build/main.aux" 1689799860 563 a4d0392ef5e3646cdf9a9618ce58bf31 "xelatex"
-  "c:/Users/Anish/Downloads/Resume/main.tex" 1689799608 9842 72e1443f98843f9b485fe0fb73f2af49 ""
-  "clean-resume.cls" 1689791276 14963 2e481daabab91a39e6dbd84539cd54ba ""
+  "build/main.aux" 1689903439 563 a4d0392ef5e3646cdf9a9618ce58bf31 "xelatex"
+  "c:/Users/Anish/Downloads/Resume/main.tex" 1689903200 9927 bd7ea96bb077af923409626fbcb1b10b ""
+  "clean-resume.cls" 1689903434 14965 c57c9e0ad637f4d8d3220f52fc480257 ""
   "images/selfie.png" 1689715036 985138 5492fde47866c58d122ab0a43dd274bc ""
-  "main.tex" 1689799608 9842 72e1443f98843f9b485fe0fb73f2af49 ""
+  "main.tex" 1689903200 9927 bd7ea96bb077af923409626fbcb1b10b ""
   "tailwind-colors.sty" 1689629366 8317 9ae867216fa5daa16c2510bc37b906aa ""
   (generated)
   "build/main.aux"

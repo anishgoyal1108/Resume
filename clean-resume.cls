@@ -80,7 +80,7 @@
     primary=slate, 
     gray=slate,
     sidebar-width=0.25\paperwidth,
-    column-gap=3em,
+    column-gap=2.2em,
     margin=0.4in,
     element-gap=0.5em
 }
