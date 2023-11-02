@@ -74,7 +74,7 @@
 \setup
 {
     microtype=true, 
-    inter=true, 
+    inter=false, 
     small-caps=false, 
     linespace=1.25, 
     primary=slate, 
